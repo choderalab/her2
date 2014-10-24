@@ -33,7 +33,7 @@ pH = 7.0 # pH to model
 keep_crystallographic_water = False # keep crystallographic waters?
 
 # Single point mutants
-point_mutants = ['L775S', 'V777L']
+point_mutants = ['L755S', 'V777L']
 
 # DEBUG: Small problem for testing.
 #pdbid = '1VII'

@@ -1,0 +1,122 @@
+--- This project was created on Fri Jan 16 15:30:42 2015
+
+-----
+Mon Jan 19 15:01:32 2015
+Starting Covalent Docking job
+Job name: covalent_3RCD_neratinib
+Job ID: lski1751-0-54bd629a
+Host: batch
+-----
+Tue Jan 20 12:05:12 2015
+Starting Covalent Docking job
+Job name: covalent_neratinib_HER2
+Job ID: lski1751-0-54be8abe
+Host: batch
+-----
+Tue Jan 20 12:44:57 2015
+Starting Covalent Docking job
+Job name: covalent_neratinib_HER2
+Job ID: lski1751-0-54be9415
+Host: batch
+-----
+Tue Jan 20 12:50:23 2015
+Starting Covalent Docking job
+Job name: covalent_neratinib_HER2
+Job ID: lski1751-0-54be955b
+Host: batch
+-----
+Tue Jan 20 13:12:09 2015
+Starting Covalent Docking job
+Job name: covalent_docking_1
+Job ID: lski1751-0-54be9a78
+Host: localhost
+-----
+Tue Jan 20 13:22:35 2015
+Starting Covalent Docking job
+Job name: covalent_docking_2
+Job ID: lski1751-0-54be9ce9
+Host: batch
+-----
+Tue Jan 20 13:47:07 2015
+Starting Covalent Docking job
+Job name: covalent_docking_4
+Job ID: lski1751-0-54bea2a7
+Host: batch
+-----
+Tue Jan 20 16:10:55 2015
+Starting Covalent Docking job
+Job name: covalent_docking_4
+Job ID: lski1751-0-54bec454
+Host: batch
+-----
+Tue Jan 20 21:11:56 2015
+Starting Covalent Docking job
+Job name: covalent_docking_1
+Job ID: lski1751-0-54bf0ade
+Host: batch
+-----
+Tue Jan 20 21:17:46 2015
+Starting Covalent Docking job
+Job name: covalent_docking_1
+Job ID: lski1751-0-54bf0c47
+Host: batch
+-----
+Tue Jan 20 21:28:11 2015
+Starting Covalent Docking job
+Job name: covalent_her2_neratinib
+Job ID: lski1751-0-54bf0eb5
+Host: batch
+-----
+Tue Jan 20 21:34:58 2015
+Starting Covalent Docking job
+Job name: covalent_her2_neratinib
+Job ID: lski1751-0-54bf104c
+Host: batch
+-----
+Tue Jan 20 21:47:59 2015
+Starting Covalent Docking job
+Job name: covalent_HER2_neratinib
+Job ID: lski1751-0-54bf1358
+Host: batch
+-----
+Wed Jan 21 09:52:14 2015
+Starting Covalent Docking job
+Job name: covalent_HER2_neratinib
+Job ID: lski1751-0-54bfbd14
+Host: batch
+-----
+Wed Jan 21 11:17:36 2015
+Starting Covalent Docking job
+Job name: covalent_HER2_neratinib_VS
+Job ID: lski1751-0-54bfd11c
+Host: batch
+-----
+Wed Jan 21 14:22:10 2015
+Starting Covalent Docking job
+Job name: covalent_HER2_neratinibPP
+Job ID: lski1751-0-54bffc5f
+Host: batch
+-----
+Fri Jan 23 11:14:01 2015
+Starting Covalent Docking job
+Job name: covalent_neratinib_PP
+Job ID: lski1751-0-54c27340
+Host: batch
+-----
+Tue Jan 27 12:27:08 2015
+Starting Covalent Docking job
+Job name: covalent_neratinib
+Job ID: lski1751-0-54c7ca64
+Host: batch
+-----
+Tue Jan 27 16:23:18 2015
+Starting Covalent Docking job
+Job name: covalent_neratinib
+Job ID: lski1751-0-54c801c0
+Host: batch
+-----
+Wed Jan 28 14:43:35 2015
+Starting Covalent Docking job
+Job name: covalent_neratinib_10A
+Job ID: lski1751-0-54c93bdd
+Host: batch
